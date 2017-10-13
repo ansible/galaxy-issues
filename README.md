@@ -1,4 +1,3 @@
-# galaxy-issues
-This repository exists solely for the tracking of user issues with the Ansible Galaxy service. 
+# DEPRECATED
 
-If you have any issues with Galaxy, please report them here.
+Please file issues at [ansible/galaxy](https://github.com/galaxy)
